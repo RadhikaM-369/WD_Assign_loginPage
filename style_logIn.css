@@ -1,0 +1,11 @@
+#heading {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgreen;
+    background-color: palegreen;
+}
+
+body {
+    background-color: rgb(173, 156, 168);
+}
